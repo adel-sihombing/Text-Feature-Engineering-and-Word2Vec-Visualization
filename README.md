@@ -1,8 +1,8 @@
-****PEMTEKS - Text Feature Engineering & Word2Vec****
+#**PEMOGRAMAN TEKS - Text Feature Engineering & Word2Vec**
 
 A Python-based text processing project exploring text feature engineering, tokenization, Word2Vec embeddings, and word vector visualization using UMAP.
 
-**Requirements**
+##**Requirements**
 Python 3.11 or later
 Google Colab or Jupyter Notebook
 pandas
@@ -15,7 +15,7 @@ numpy
 umap-learn
 plotly
 
-**Features**
+##**Features**
 One-Hot Encoding — Binary representation of word presence.
 Bag of Words — Text representation based on word frequency.
 TF-IDF — Word weighting based on document frequency.
