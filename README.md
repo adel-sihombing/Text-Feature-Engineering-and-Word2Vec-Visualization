@@ -7,3 +7,5 @@ The project also implements Word2Vec using Gensim to generate 100-dimensional wo
 ## Requirements
 
 This project uses Python 3.11 or later and can be run in Google Colab or Jupyter Notebook. The required libraries include pandas, scikit-learn, requests, beautifulsoup4, nltk, gensim, numpy, umap-learn, and plotly.
+
+Note: code starts in the TUGAS WEEK 5 — FEATURE ENGINEERING  section of the notebook.
