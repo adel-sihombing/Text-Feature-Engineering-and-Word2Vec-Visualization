@@ -1,4 +1,4 @@
-# PEMTEKS - Text Feature Engineering & Word2Vec
+# TEXT PROCESSING - Text Feature Engineering & Word2Vec
 
 This project explores text processing and feature engineering techniques using Python. It covers One-Hot Encoding, Bag of Words, and TF-IDF to represent text data, as well as tokenization using NLTK to split text into individual words.
 
